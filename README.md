@@ -191,7 +191,7 @@ $ cd Betty; ./install.sh
 
 ## :blue_book: Authors
 
-* **Isaac Baccah
+* ** tonyekim
 
 
 ## :mag: License
@@ -201,9 +201,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## :mega: Acknowledgments
 
-* Holberton School (providing guidance)
-* Stack Overflow (help on various memory errors (not leaks))
 
-<p align="center">
-  <img src="http://www.holbertonschool.com/holberton-logo.png">
-</p>

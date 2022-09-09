@@ -192,6 +192,7 @@ $ cd Betty; ./install.sh
 ## :blue_book: Authors
 
 * ** tonyekim
+* ** Mutiu Falade
 
 
 ## :mag: License

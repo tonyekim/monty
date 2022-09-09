@@ -1,6 +1,5 @@
 /*
- * File: set_op_tok_error.c
- * Auth: Bennett Dixon
+ * File: set_op_tok_error
  */
 
 #include "monty.h"
